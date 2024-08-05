@@ -1,6 +1,6 @@
 # Amazon-e-shop 
 
-An interactive amazon-like website with products listing, cart and checkout features
+An interactive amazon-like website with products listing, cart and checkout features, developed using HTML5, CSS5, Javascript, Jasmine(for testing)
 
 ## Features
 - Browse products listings.
